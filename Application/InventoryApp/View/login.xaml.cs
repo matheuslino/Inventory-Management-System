@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace InventoryApp
 {
     /// <summary>
-    /// Interaction logic for login.xaml
+    /// Interaction logic for Login.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Login : Window
     {
-        public MainWindow()
+        public Login()
         {
             InitializeComponent();
         }
