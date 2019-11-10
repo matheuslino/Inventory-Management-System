@@ -1,0 +1,6 @@
+#hidden folder
+Application/.vs/
+
+#other
+Application/InventoryApp/bin/
+Application/InventoryApp/obj/
